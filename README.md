@@ -6,7 +6,7 @@ To type diacritical marks, use the held down Alt key. To use autocomplete, press
 
 ## Demo
 
-![]()
+![](https://github.com/komarowski/Slovak-Keyboard/blob/main/Gif/SlovakKeyboard.gif)
 
 ## Requirements
 
@@ -14,7 +14,7 @@ To type diacritical marks, use the held down Alt key. To use autocomplete, press
 
 ## Getting Started
 
-- Clone the repository  (``).
+- Clone the repository  (`https://github.com/komarowski/Slovak-Keyboard.git`).
 - Build project in your IDE of choice.
 - To work autocomplete drag the file `sk.txt` into the same folder with the executable file.
 
